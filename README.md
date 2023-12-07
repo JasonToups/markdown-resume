@@ -1,8 +1,10 @@
 # Markdown Resume
 
-This repo allows you to build/maintain your resume in a Markdown file, and then publish it into an HTML, PDF or Word file.
+This repo allows you to build & maintain your resume in a Markdown file, and then publish it into an HTML, PDF or Word file.
 
-The inspiration for this project came from my need to look for a job, my need to update my resume. I've been writing Markdown for over a decade, starting with the Ulysses MacOS app, and now Obsidian. I try not to use non-markdown editors anymore if I can help it.
+The inspiration for this project came from my need to look for a job. So I opened Google Docs to update my resume and just groaned.
+
+I've been writing Markdown for over a decade, starting with the [Ulysses](https://ulysses.app/) MacOS app, and now [Obsidian](https://obsidian.md/). I try not to use non-markdown editors anymore if I can help it.
 
 So I looked around and found this repo by [VidLuther](https://github.com/vidluther/markdown-resume).
 Who was inspired by this [project by Sonya Sawtelle](https://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html).
