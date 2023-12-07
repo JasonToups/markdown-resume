@@ -30,13 +30,13 @@ A lot has changed since Sonya wrote her blog post and shared her workflow, so he
 ## [Pandoc](https://pandoc.org) a universal document converter
 
 ```bash
-    brew install pandoc
+brew install pandoc
 ```
 
 ## [Wkhtmltopdf](https://wkhtmltopdf.org)
 
 ```
-    brew install wkhtmltopdf
+brew install wkhtmltopdf
 ```
 
 ## Markdown to HTML
