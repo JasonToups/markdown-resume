@@ -4,11 +4,11 @@
   "author": "Jason Toups <me@jasontoups.com>",
   "scripts": {
     "pandoc": "pandoc",
-    "html": "pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o resume.html",
-    "pdf": "pandoc resume.md -f markdown -t pdf --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o resume.pdf",
-    "word": "pandoc resume.md -f markdown -t docx --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o resume.docx",
+    "html": "pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o jason-toups-resume.html",
+    "pdf": "pandoc resume.md -f markdown -t pdf --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o jason-toups-resume.pdf",
+    "word": "pandoc resume.md -f markdown -t docx --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o jason-toups-resume.docx",
     "all": "npm run html && npm run pdf && npm run word",
-    "html:pdf": "npm wkhtmltopdf --enable-local-file-access ./exports/resume.html ./exports/resume.pdf"
+    "html:pdf": "npm wkhtmltopdf --enable-local-file-access jason-toups-resume.html jason-toups-resume.pdf"
   },
   "dependencies": {
     "node-pandoc": "^0.3.0",

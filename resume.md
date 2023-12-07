@@ -21,16 +21,16 @@ author:
 subject: 'Subject'
 ---
 
-##### [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . 404.625.6530
+###### [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . 404.625.6530
 
 ##### Frontend Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design
 
 ## Technical Skills
 
-|                  |                                                                                                                                                                                  |
-| ---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Programming**: |                         Javascript · Typescript · Angular · RxJS · React · React-Redux · React-Thunk · Vue · Shell · HTML · CSS · Sass · JQuery · Docker                         |
-| **Production**:  | Agile Development/Scrum Master · JIRA · Affinity Designer · Figma · Adobe Creative Suite · Version-Controlled Development · Technical Documentation · UI/UX Design · A/B Testing |
+|                  |                                                                                                                                                                           |
+| ---------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Programming**: |                Javascript · Typescript · Angular · RxJS · Markdown · React · React-Redux · React-Thunk · Vue · Shell · HTML · CSS · Sass · JQuery · Docker                |
+| **Production**:  | Agile Development/Scrum Master · JIRA · Git · Software Releases · Affinity Designer · Figma · Adobe Creative Suite · Technical Documentation · UI/UX Design · A/B Testing |
 
 ## Work Experience
 
