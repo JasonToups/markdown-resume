@@ -420,6 +420,7 @@ textarea {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  border: none;
 }
 
 .go-top {
@@ -692,26 +693,27 @@ table {
   border-spacing: 0;
   font-size: 100%;
   font: inherit;
+  vertical-align: top;
+  --table-padding: 6px 13px;
 }
 
 table th {
   font-weight: bold;
-  border: 1px solid #ccc;
-  padding: 6px 13px;
+  border: none;
+  vertical-align: top;
+  padding: var(--table-padding);
 }
 
 table td {
-  border: 1px solid #ccc;
-  padding: 6px 13px;
+  border: none;
+  vertical-align: top;
+  padding: var(--table-padding);
 }
 
 table tr {
-  border-top: 1px solid #ccc;
+  border: none;
+  vertical-align: top;
   background-color: #fff;
-}
-
-table tr:nth-child(2n) {
-  background-color: #f8f8f8;
 }
 
 img {
