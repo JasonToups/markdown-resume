@@ -34,7 +34,7 @@ subject: 'Subject'
 
 ## Work Experience
 
-### Williams Sonoma Inc : Front End Engineer / April 2021 - June 2022 / San Francisco / Remote
+### Bill : Front End Engineer / Jul 2022 - Dec 2023 / San Jose / Remote
 
 Worked with Angular & RxJS on the revenue-generating International Payments Team.
 

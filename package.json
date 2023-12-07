@@ -7,6 +7,7 @@
     "html": "pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o resume.html",
     "pdf": "pandoc resume.md -f markdown -t pdf --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o resume.pdf",
     "word": "pandoc resume.md -f markdown -t docx --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o resume.docx",
+    "all": "npm run html && npm run pdf && npm run word",
     "html:pdf": "npm wkhtmltopdf --enable-local-file-access ./exports/resume.html ./exports/resume.pdf"
   },
   "dependencies": {
