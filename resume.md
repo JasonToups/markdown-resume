@@ -41,13 +41,13 @@ Worked with Angular & RxJS on the revenue-generating International Payments Team
 - **Retrofitted** existing payment flows with International options, to enable users to make International Payments with current exchange rates.
 - **Operated** across several teams to enable these features by working with the code owners to develop features and fix bugs.
 - **Wrote** package.json scripts to streamline repetitive engineering tasks.
-- **Created** training documentation in Markdown, on Confluence to help onboard new engineers and fill in blank spots in our production.
+- **Created** training documentation in Markdown, on Confluence to onboard new engineers.
 
 **Technologies used:** TypeScript · Angular · RxJS · Technical Documentation · Training · JavaScript
 
 ### Williams Sonoma Inc : Front End Engineer / April 2021 - June 2022 / San Francisco / Remote
 
-Worked on the Micro Front End team, transitioning Production pages from 6 brands, into a unified Vue project, with 6 brand configs.
+Worked on the Micro Front End team, transitioning Production pages from 6 brands, into a unified Vue project.
 
 - **Engineered** styling & architectural updates to Vue components to all 6 supported brands, including; the Product Information pages for the Purchasing Component & Product Flags Component, Shop pages, & Content pages.
 - **Solved** Local Environment Stability Issues with a self-directed NodeJS project that automated engineering tasks, including; cloning 11 repos pointing to multiple remotes per brand, running 4-5 server commands, creating multiple feature branches, updating local branches to the latest release code,
