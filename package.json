@@ -4,9 +4,9 @@
   "author": "Jason Toups <me@jasontoups.com>",
   "scripts": {
     "pandoc": "pandoc",
-    "html": "pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o ./exports/resume.html",
-    "pdf": "pandoc resume.md -f markdown -t pdf --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o ./exports/resume.pdf",
-    "word": "pandoc resume.md -f markdown -t docx --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o ./exports/resume.docx",
+    "html": "pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o resume.html",
+    "pdf": "pandoc resume.md -f markdown -t pdf --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o resume.pdf",
+    "word": "pandoc resume.md -f markdown -t docx --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o resume.docx",
     "html:pdf": "npm wkhtmltopdf --enable-local-file-access ./exports/resume.html ./exports/resume.pdf"
   },
   "dependencies": {

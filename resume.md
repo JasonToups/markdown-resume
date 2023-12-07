@@ -1,77 +1,93 @@
 ---
-margin-left: 2cm
-margin-right: 2cm
+margin-left: 1cm
+margin-right: 1cm
 margin-top: 1cm
-margin-bottom: 2cm
-title: Your Resume in Markdown
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+margin-bottom: 1cm
+title: Jason Toups
+description-meta: 'Frontend Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design.'
 keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
+  - 'frontend'
+  - 'software'
+  - 'development'
+  - 'documentation'
+  - 'Angular'
+  - 'RxJS'
+  - 'React'
+  - 'Vue'
+  - 'Typescript'
+  - 'Javascript'
 author:
-- I am the author
+  - Jason Toups
 subject: 'Subject'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+##### [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . 404.625.6530
 
-## Skills
+##### Frontend Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design
 
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
+## Technical Skills
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+`documentation`
+`training`
+`mentorship`
+`typescript`
+`javascript`
+`Angular`
+`RxJS`
+`React`
+`React-Redux`
+`React-Thunk`
+`Vue`
+`Shell`
+`HTML`
+`CSS`
+`Sass`
+`JQuery`
+`Docker`
 
-## Experience
+**Programming**: Javascript · Typescript · Angular · RxJS · React · React-Redux · React-Thunk · Vue · Shell · HTML · CSS · Sass · JQuery · Docker
+**Methodologies**: Version-Controlled Development · Technical Documentation · Wireframing · UI/UX Design · A/B Testing
+**Operations and Design**:
+Agile Development/Scrum Master · JIRA · Affinity Designer · Sketch · Figma · Adobe Creative Suite
 
-### CEO and Founder, Pied Piper
+## Work Experience
 
-start-date-end-date, City, State and remote
+### Williams Sonoma Inc : Front End Engineer / April 2021 - June 2022 / San Francisco / Remote
 
-- Things you did/do here
-- More things that you do here.
+Worked with Angular & RxJS on the revenue-generating International Payments Team.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+- Retrofitted existing payment flows with International options, to enable users to make International Payments with current exchange rates.
+- Operated across several teams to enable these features by working with the code owners to develop features and fix bugs.
+- Updated GraphQL in our Tank repo, as an abstraction layer between the Frontend and Backend.
+- Wrote package.json scripts to streamline repetitive engineering tasks.
+- Created training documentation in Markdown, on Confluence to help onboard new engineers and fill in blank spots in our production.
 
-### Senior Software Architect, Hooli
+**Technologies used:** TypeScript · Angular · RxJS · Technical Documentation · Training · JavaScript
 
-2010-2016, San Francisco, CA
+### Williams Sonoma Inc : Front End Engineer / April 2021 - June 2022 / San Francisco / Remote
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
+Worked on the Micro Front End team, transitioning Production pages from 6 brands, into a unified Vue project, with 6 brand configs.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+- **Engineered** styling & architectural updates to Vue components to all 6 supported brands, including; the Product Information pages for the Purchasing Component & Product Flags Component, Shop pages, & Content pages.
+- **Solved** Local Environment Stability Issues across several teams with a self-directed NodeJS project that automated repetitive engineering tasks, including; cloning 11 repos pointing to multiple remotes per brand, running 4-5 server commands, creating multiple feature branches across each brand, updating local branches to the latest release code,
+- **Managed** & Migrated pull requests from team-specific repos, to Bedrock & Release Management repos, including batch cherry-picked commits from my team to the upstream repos.
+- **Mentored** junior engineers on my team with paired programming sessions and sharing my documentation.
 
-## Awards & Recognition
+**Technologies used:** Javascript · Vue · SASS · NodeJS · Shell · Markdown · Adobe Experience Manager
 
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+### NewlyWords : Front End Engineer / San Francisco / Oct 2020 - April 2021 / Remote
 
-## Projects
+NewlyWords is a React & Ruby memory book platform where hundreds of users per day can invite their friends & family to collaborate on a commemorative digital or physical book.
 
-**[*Personal Blog*](http://luther.io)** (2021-present)
+- **Engineered** the Memory Book Project Dashboard in React with custom Hooks, where project owners view and edit pages submitted from their contributors, and view information about their book.
+- **Built** the Questionnaire as a new memory book content type, providing project owners a place to ask their contributors questions to answer for their collaborative memory book content.
+- **Developed** a design guide with classNames and partials, from the product design system, to build stylesheets which implemented reusable classnames and styles.
+- **Mentored** a junior ui/ux designer by providing design advice to help him utilize Figma features more robustly, and to think about user experience from our user’s perspective, following a contextual flow of page elements.
 
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+**Technologies used:** Javascript · React · Ruby · Shell · Markdown · Adobe Experience Manager
+
+> Additional Work Experience Provided Upon Request & Linked In Profile
 
 ## Education
 
-### Masters in BS, Example University
-
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+_University of New Orleans / BA Philosophy_
