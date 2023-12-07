@@ -27,28 +27,10 @@ subject: 'Subject'
 
 ## Technical Skills
 
-`documentation`
-`training`
-`mentorship`
-`typescript`
-`javascript`
-`Angular`
-`RxJS`
-`React`
-`React-Redux`
-`React-Thunk`
-`Vue`
-`Shell`
-`HTML`
-`CSS`
-`Sass`
-`JQuery`
-`Docker`
-
-**Programming**: Javascript · Typescript · Angular · RxJS · React · React-Redux · React-Thunk · Vue · Shell · HTML · CSS · Sass · JQuery · Docker
-**Methodologies**: Version-Controlled Development · Technical Documentation · Wireframing · UI/UX Design · A/B Testing
-**Operations and Design**:
-Agile Development/Scrum Master · JIRA · Affinity Designer · Sketch · Figma · Adobe Creative Suite
+|                  |                                                                                                                                                                                  |
+| ---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Programming**: |                         Javascript · Typescript · Angular · RxJS · React · React-Redux · React-Thunk · Vue · Shell · HTML · CSS · Sass · JQuery · Docker                         |
+| **Production**:  | Agile Development/Scrum Master · JIRA · Affinity Designer · Figma · Adobe Creative Suite · Version-Controlled Development · Technical Documentation · UI/UX Design · A/B Testing |
 
 ## Work Experience
 
@@ -56,11 +38,10 @@ Agile Development/Scrum Master · JIRA · Affinity Designer · Sketch · Figma �
 
 Worked with Angular & RxJS on the revenue-generating International Payments Team.
 
-- Retrofitted existing payment flows with International options, to enable users to make International Payments with current exchange rates.
-- Operated across several teams to enable these features by working with the code owners to develop features and fix bugs.
-- Updated GraphQL in our Tank repo, as an abstraction layer between the Frontend and Backend.
-- Wrote package.json scripts to streamline repetitive engineering tasks.
-- Created training documentation in Markdown, on Confluence to help onboard new engineers and fill in blank spots in our production.
+- **Retrofitted** existing payment flows with International options, to enable users to make International Payments with current exchange rates.
+- **Operated** across several teams to enable these features by working with the code owners to develop features and fix bugs.
+- **Wrote** package.json scripts to streamline repetitive engineering tasks.
+- **Created** training documentation in Markdown, on Confluence to help onboard new engineers and fill in blank spots in our production.
 
 **Technologies used:** TypeScript · Angular · RxJS · Technical Documentation · Training · JavaScript
 
@@ -69,7 +50,7 @@ Worked with Angular & RxJS on the revenue-generating International Payments Team
 Worked on the Micro Front End team, transitioning Production pages from 6 brands, into a unified Vue project, with 6 brand configs.
 
 - **Engineered** styling & architectural updates to Vue components to all 6 supported brands, including; the Product Information pages for the Purchasing Component & Product Flags Component, Shop pages, & Content pages.
-- **Solved** Local Environment Stability Issues across several teams with a self-directed NodeJS project that automated repetitive engineering tasks, including; cloning 11 repos pointing to multiple remotes per brand, running 4-5 server commands, creating multiple feature branches across each brand, updating local branches to the latest release code,
+- **Solved** Local Environment Stability Issues with a self-directed NodeJS project that automated engineering tasks, including; cloning 11 repos pointing to multiple remotes per brand, running 4-5 server commands, creating multiple feature branches, updating local branches to the latest release code,
 - **Managed** & Migrated pull requests from team-specific repos, to Bedrock & Release Management repos, including batch cherry-picked commits from my team to the upstream repos.
 - **Mentored** junior engineers on my team with paired programming sessions and sharing my documentation.
 
