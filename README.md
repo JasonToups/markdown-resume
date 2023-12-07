@@ -1,66 +1,65 @@
 # Markdown Resume
 
-This repo allows you to build/maintain your resume in a Markdown file, and then publish it into an HTML or PDF file.
-Technically, you could output it into any file you wanted with pandoc, or wkhtmltopdf, but I wasn't interested in those scenarios so I explore those avenues.
+This repo allows you to build/maintain your resume in a Markdown file, and then publish it into an HTML, PDF or Word file.
 
-The inspiration for this project came from my need to look for a job, my need to update my resume, and my desire not to have to write something in Google docs, or Microsoft Word, so I scoured the web for newer way to build/maintain a resume, while doing so I ran into this [project by Sonya Sawtelle](https://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html).
+The inspiration for this project came from my need to look for a job, my need to update my resume. I've been writing Markdown for over a decade, starting with the Ulysses MacOS app, and now Obsidian. I try not to use non-markdown editors anymore if I can help it.
 
-I modified the CSS for my taste, and noticed that some of the documentation needed to be updated.
+So I looked around and found this repo by [VidLuther](https://github.com/vidluther/markdown-resume).
+Who was inspired by this [project by Sonya Sawtelle](https://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html).
 
-Since Sonya's post is nearly five years old, there have been many changes to the command line utilities that she used, so I've updated this README to reflect those changes.
+I've added a `package.json` to this project, so you can easily run the scripts. I've used my name to generate the files, but feel free to configure it as you please.
 
-# Workflow
+## Workflow
 
 The workflow is pretty simple.
 
 1. Edit the resume.md file.
-1. Run pandoc to convert the Markdown file to HTML. OR
-1. Run pandoc to convert the Markdown file into a PDF.
+2. Run `npm run all` to generate your HTML, PDF & Word Doc
 
-The big difference between Sonya's workflow is that if you want, you can convert from MD -> PDF in one step, rather than two. You can still go from MD -> HTML -> PDF, but if you don't want to have an HTML file, you don't have to.
+## Pre-Requisites
 
-I also don't feel like supporting/using Microsoft Word, so I'm not even trying to output to .docx.
+Install these packages globally.
 
-# Updated instructions for a Mac .. or 2021
+### [Pandoc](https://pandoc.org) - a universal document converter
 
-A lot has changed since Sonya wrote her blog post and shared her workflow, so here are some updates on how to get started and building/updating your own resume.
-
-# Pre-Requisites
-
-## [Pandoc](https://pandoc.org) a universal document converter
-
-```bash
+```shell
 brew install pandoc
 ```
 
-## [Wkhtmltopdf](https://wkhtmltopdf.org)
+### [Wkhtmltopdf](https://wkhtmltopdf.org) - to convert your Markdown to PDF
 
-```
+```shell
 brew install wkhtmltopdf
 ```
 
-## Markdown to HTML
+### Install the Package Scripts
 
-```
-pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o resume.html
-```
-
-## Markdown to PDF
-
-```
-pandoc resume.md -f markdown -t pdf --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o resume.pdf
+```shell
+npm install
 ```
 
-## HTML to PDF
+## Package Scripts
 
-If you want to convert from HTML to PDF for some reason, you'll need to add a switch to wkhtmltopdf so that it works properly.
+### Create All 3 Files / PDF, HTML & Word Doc
+
+```shell
+npm run all
+```
+
+### Markdown to HTML
+
+```shell
+npm run html
+```
+
+### Markdown to PDF
 
 ```
-wkhtmltopdf --enable-local-file-access resume.html resume.pdf
+npm run pdf
 ```
 
-# TODO
+### HTML to PDF
 
-- [x] [github action](https://github.com/pandoc/pandoc-action-example) will run and create the HTML and PDF file automatically.
-- [ ] the Author field in the PDF, it seems to not work when the pdf-engine is set to wkhtmltopdf
-- [ ] make a release or a package?
+```
+npm run html:pdf
+```
