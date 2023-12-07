@@ -41,7 +41,7 @@ Worked with Angular & RxJS on the revenue-generating International Payments Team
 - **Retrofitted** existing payment flows with International options, to enable users to make International Payments with current exchange rates.
 - **Operated** across several teams to enable these features by working with the code owners to develop features and fix bugs.
 - **Wrote** package.json scripts to streamline repetitive engineering tasks.
-- **Created** training documentation in Markdown, on Confluence to onboard new engineers.
+- **Created** training documentation in Markdown, on Confluence to onboard new engineers and standardize processes.
 
 **Technologies used:** TypeScript · Angular · RxJS · Technical Documentation · Training · JavaScript
 
