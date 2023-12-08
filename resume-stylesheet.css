@@ -498,8 +498,8 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 10px 0 5px 0;
-  padding: 0;
+  margin: 0;
+  padding: 0 0 10px 0;
   font-weight: bold;
   -webkit-font-smoothing: subpixel-antialiased;
   cursor: text;
@@ -520,6 +520,8 @@ h1 {
 h2 {
   font-size: var(--h2-font-size);
   line-height: var(--h2-font-size);
+  padding-bottom: 0;
+  margin-bottom: 10px;
   border-bottom: 1px solid #ccc;
   color: #476d96;
 }
@@ -559,11 +561,12 @@ p,
 blockquote,
 table,
 pre {
-  margin: 15px 0;
+  margin: 0 0 10px 0;
 }
 
 ul {
   padding-left: 30px;
+  margin: 0 0 10px 0;
 }
 
 ol {
@@ -685,7 +688,7 @@ table {
   font-size: 100%;
   font: inherit;
   vertical-align: top;
-  --table-padding: 6px 13px;
+  --table-padding: 0px 13px 6px 0px;
 }
 
 table th {
