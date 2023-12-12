@@ -21,7 +21,7 @@ author:
 subject: 'Subject'
 ---
 
-##### me@jasontoups.com . [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . 404.625.6530
+##### [me@jasontoups.com](mailto:me@jasontoups.com) . [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . [404.625.6530](tel:4046256530)
 
 ##### Frontend Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design
 
