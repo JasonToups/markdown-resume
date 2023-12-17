@@ -463,7 +463,7 @@ body {
   font: 13.34px/1.4 Helvetica;
   -webkit-font-smoothing: subpixel-antialiased;
   border-radius: 3px;
-  padding: 30px;
+  padding: 25px;
   margin: 15px;
   font-size: 14px;
   line-height: 1.5;
@@ -566,12 +566,12 @@ pre {
 }
 
 ul {
-  padding-left: 30px;
+  padding-left: 25px;
   margin: 0 0 10px 0;
 }
 
 ol {
-  padding-left: 30px;
+  padding-left: 25px;
 }
 
 ol li ul:first-of-type {
