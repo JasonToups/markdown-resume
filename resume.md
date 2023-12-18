@@ -4,7 +4,7 @@ margin-right: 1cm
 margin-top: 1cm
 margin-bottom: 1cm
 title: Jason Toups
-description-meta: 'Frontend Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design.'
+description-meta: 'Software Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design.'
 keywords:
   - 'frontend'
   - 'software'
@@ -23,7 +23,7 @@ subject: 'Subject'
 
 ##### [me@jasontoups.com](mailto:me@jasontoups.com) . [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . [404.625.6530](tel:4046256530)
 
-##### Frontend Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design
+##### Software Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design
 
 ## Technical Skills
 
