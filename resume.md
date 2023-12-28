@@ -106,7 +106,7 @@ Tested Chartboost SDKs for iOS, Android & Unity for release.
 - **Ran** & Maintained build scripts to create release builds, with Jenkins.
 - **Tested** the features going into the SDK, using Charles Proxy testing to inject responses from the server to the SDK.
 
-**Skills:** Python · PyTest · Selenium · Appium · Team Leadership · Technical Documentation · Training · Quality Assurance
+**Skills:** Python · PyTest · Selenium · Appium · Team Leadership · Technical Documentation · Training
 
 ### Kixeye : Mobile Quality Engineering Lead / San Francisco / Feb 2013 - Jan 2015
 
@@ -117,7 +117,7 @@ Prepared two mobile free-to-play games for App Store submission, from tentpole K
 - **Standardized** Feature Progress Reporting and Feature Progress JIRA dashboards across the Quality team.
 - **Reported** testing and game feature progress to Product team and stakeholders.
 
-**Skills:** Javascript · Monkeytalk · Team Leadership · Technical Documentation · Training · Quality Assurance
+**Skills:** Javascript · Monkeytalk · Team Leadership · Technical Documentation · Training
 
 > Additional Work Experience Provided Upon Request & Linked In Profile
 
