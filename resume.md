@@ -72,14 +72,14 @@ NewlyWords is a React & Ruby memory book platform where hundreds of users per da
 HUOA is a philanthropic organization dedicated to cultural exchange between Hawaii & Japan.
 
 - **Refactored** existing static HUOA site to a dynamic React site, using Wordpress on the backend.
-- **Built** reuable containers & components that were used across the site.
+- **Built** reusable containers & components that were used across the site.
 - **Engineered** custom Hooks to handle State between multiple components.
 
 **Skills:** JavaScript · React · Hooks · Sass · Technical Documentation · Training
 
 ### LifeStreet : Sr. Product Designer / San Francisco / Sep 2017 - Oct 2019
 
-Designed mobile marketing materials for the engineering, creative, and marketing teams.
+Engineered & Designed mobile marketing materials for the engineering, creative, and marketing teams.
 
 - **Engineered** HTML playable ads in Javascript, with Adobe Animate for clients.
 - **Created** Sketch to Zeplin playable ad production workflow, to design mockups and storyboards for ad approval, and CSS for engineers.
@@ -92,11 +92,11 @@ Designed mobile marketing materials for the engineering, creative, and marketing
 
 Produced playable ads, while coordinating the production in JIRA, spanning three global regions, four outsourced development studios, and a team of internal engineers.
 
-- **Designed** UI/UX storyboards for free-to-play playable ads in Sketch, to send to advertisers for approval and engineering to build the ads.
+- **Designed** UI/UX storyboards for free-to-play playable ads in Figma, to send to advertisers for approval and engineering to build the ads.
 - **Scaled** the production of playables 170% in the first 2 months.
 - **Iterated** existing ads with A/B testing, tracked and reported results from Metamarkets data to all stakeholders.
 
-**Skills:** Sketch App · UI/UX · User Interface Design · Product Development · Technical Documentation · Training
+**Skills:** Figma · UI/UX · User Interface Design · Product Development · Technical Documentation · Training
 
 ### Chartboost : Sr. Quality Engineering Lead / San Francisco / May 2015 - Jan 2016
 
