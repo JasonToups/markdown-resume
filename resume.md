@@ -82,7 +82,7 @@ HUOA is a philanthropic organization dedicated to cultural exchange between Hawa
 Engineered & Designed mobile marketing materials for the engineering, creative, and marketing teams.
 
 - **Engineered** HTML playable ads in Javascript, with Adobe Animate for clients.
-- **Created** Sketch to Zeplin playable ad production workflow, to design mockups and storyboards for ad approval, and CSS for engineers.
+- **Created** Playable Ad Production Workflow, to design mockups and storyboards for ad approval, and CSS for engineers.
 - **Upgraded** client assets with self-designed elements, that were approved by advertisers including Disney, Warner Brothers & King, for their Frozen, Harry Potter, and Candy Crush IPs.
 - **Implemented** Responsive Design solution that consistently generated lift across all existing playable ads, and became an engineering standard.
 
