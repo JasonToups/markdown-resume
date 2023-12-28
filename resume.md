@@ -79,7 +79,7 @@ HUOA is a philanthropic organization dedicated to cultural exchange between Hawa
 
 ### LifeStreet : Sr. Product Designer / San Francisco / Sep 2017 - Oct 2019
 
-Engineered & Designed mobile marketing materials for the engineering, creative, and marketing teams.
+Engineered & Designed mobile marketing materials for the programmatic marketing platform.
 
 - **Engineered** HTML playable ads in Javascript, with Adobe Animate for clients.
 - **Implemented** Responsive Design solution that consistently generated lift across all existing playable ads, and became an engineering standard.
