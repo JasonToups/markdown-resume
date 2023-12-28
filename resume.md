@@ -29,12 +29,12 @@ subject: 'Subject'
 
 |                  |                                                                                                                                                                           |
 | ---------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Programming**: |                Javascript · Typescript · Angular · RxJS · Markdown · React · React-Redux · React-Thunk · Vue · Shell · HTML · CSS · Sass · JQuery · Docker                |
+| **Programming**: |                Javascript · Typescript · Angular · React · React-Redux · React-Hooks · Vue · RxJS · Markdown · Shell · HTML · CSS · Sass · JQuery · Docker                |
 | **Production**:  | Agile Development/Scrum Master · JIRA · Git · Software Releases · Affinity Designer · Figma · Adobe Creative Suite · Technical Documentation · UI/UX Design · A/B Testing |
 
 ## Work Experience
 
-### Bill : Front End Engineer / Jul 2022 - Dec 2023 / San Jose / Remote
+### Bill : Sr. Front End Engineer / Jul 2022 - Dec 2023 / San Jose
 
 Worked with Angular & RxJS on the revenue-generating International Payments Team.
 
@@ -43,9 +43,9 @@ Worked with Angular & RxJS on the revenue-generating International Payments Team
 - **Wrote** package.json scripts to streamline repetitive engineering tasks.
 - **Created** training documentation in Markdown, on Confluence to onboard new engineers and standardize processes.
 
-**Technologies used:** TypeScript · Angular · RxJS · Technical Documentation · Training · JavaScript
+**Skills:** TypeScript · Angular · RxJS · Technical Documentation · Training · JavaScript
 
-### Williams Sonoma Inc : Front End Engineer / April 2021 - June 2022 / San Francisco / Remote
+### Williams Sonoma Inc : Front End Engineer / April 2021 - June 2022 / San Francisco
 
 Worked on the Micro Front End team, transitioning Production pages from 6 brands, into a unified Vue project.
 
@@ -54,9 +54,9 @@ Worked on the Micro Front End team, transitioning Production pages from 6 brands
 - **Managed** & Migrated pull requests from team-specific repos, to Bedrock & Release Management repos, including batch cherry-picked commits from my team to the upstream repos.
 - **Mentored** junior engineers on my team with paired programming sessions and sharing my documentation.
 
-**Technologies used:** Javascript · Vue · SASS · NodeJS · Shell · Markdown · Adobe Experience Manager
+**Skills:** Javascript · Vue · SASS · NodeJS · Shell · Markdown · Adobe Experience Manager
 
-### NewlyWords : Front End Engineer / San Francisco / Oct 2020 - April 2021 / Remote
+### NewlyWords : Front End Engineer / San Francisco / Oct 2020 - April 2021
 
 NewlyWords is a React & Ruby memory book platform where hundreds of users per day can invite their friends & family to collaborate on a commemorative digital or physical book.
 
@@ -65,7 +65,59 @@ NewlyWords is a React & Ruby memory book platform where hundreds of users per da
 - **Developed** a design guide with classNames and partials, from the product design system, to build stylesheets which implemented reusable classnames and styles.
 - **Mentored** a junior ui/ux designer by providing design advice to help him utilize Figma features more robustly, and to think about user experience from our user’s perspective, following a contextual flow of page elements.
 
-**Technologies used:** Javascript · React · Ruby · Shell · Markdown · Adobe Experience Manager
+**Skills:** Javascript · React · Ruby · Shell · Markdown · Adobe Experience Manager
+
+### Hawaii United Okinawa Association : Front End Engineer / San Francisco / Apr 2020 - Oct 2020
+
+HUOA is a philanthropic organization dedicated to cultural exchange between Hawaii & Japan.
+
+- **Refactored** existing static HUOA site to a dynamic React site, using Wordpress on the backend.
+- **Built** reuable containers & components that were used across the site.
+- **Engineered** custom Hooks to handle State between multiple components.
+
+**Skills:** JavaScript · React · Hooks · Sass · Technical Documentation · Training
+
+### LifeStreet : Sr. Product Designer / San Francisco / Sep 2017 - Oct 2019
+
+Designed mobile marketing materials for the engineering, creative, and marketing teams.
+
+- **Engineered** HTML playable ads in Javascript, with Adobe Animate for clients.
+- **Created** Sketch to Zeplin playable ad production workflow, to design mockups and storyboards for ad approval, and CSS for engineers.
+- **Upgraded** client assets with self-designed elements, that were approved by advertisers including Disney, Warner Brothers & King, for their Frozen, Harry Potter, and Candy Crush IPs.
+- **Implemented** Responsive Design solution that consistently generated lift across all existing playable ads, and became an engineering standard.
+
+**Skills:** JavaScript · Figma · UI/UX · User Interface Design · Technical Documentation · Training
+
+### Chartboost : Product Designer / San Francisco / Feb 2017 - Aug 2017
+
+Produced playable ads, while coordinating the production in JIRA, spanning three global regions, four outsourced development studios, and a team of internal engineers.
+
+- **Designed** UI/UX storyboards for free-to-play playable ads in Sketch, to send to advertisers for approval and engineering to build the ads.
+- **Scaled** the production of playables 170% in the first 2 months.
+- **Iterated** existing ads with A/B testing, tracked and reported results from Metamarkets data to all stakeholders.
+
+**Skills:** Sketch App · UI/UX · User Interface Design · Product Development · Technical Documentation · Training
+
+### Chartboost : Sr. Quality Engineering Lead / San Francisco / May 2015 - Jan 2016
+
+Tested Chartboost SDKs for iOS, Android & Unity for release.
+
+- **Wrote** automation test scripts in Python, using PyTest and Selenium with the Appium framework.
+- **Ran** & Maintained build scripts to create release builds, with Jenkins.
+- **Tested** the features going into the SDK, using Charles Proxy testing to inject responses from the server to the SDK.
+
+**Skills:** Python · PyTest · Selenium · Appium · Team Leadership · Technical Documentation · Training · Quality Assurance
+
+### Kixeye : Mobile Quality Engineering Lead / San Francisco / Feb 2013 - Jan 2015
+
+Prepared two mobile free-to-play games for App Store submission, from tentpole Kixeye IP, and contributed several level designs for War Commander Mobile in Unity.
+
+- **Wrote** Javascript mobile automation testing scripts with the Monkeytalk platform.
+- **Managed** testing responsibilities for internal and external testing teams.
+- **Standardized** Feature Progress Reporting and Feature Progress JIRA dashboards across the Quality team.
+- **Reported** testing and game feature progress to Product team and stakeholders.
+
+**Skills:** Javascript · Monkeytalk · Team Leadership · Technical Documentation · Training · Quality Assurance
 
 > Additional Work Experience Provided Upon Request & Linked In Profile
 
