@@ -113,9 +113,9 @@ Tested Chartboost SDKs for iOS, Android & Unity for release.
 Prepared two mobile free-to-play games for App Store submission, from tentpole Kixeye IP, and contributed several level designs for War Commander Mobile in Unity.
 
 - **Wrote** Javascript mobile automation testing scripts with the Monkeytalk platform.
+- **Prepared** release builds by running build scripts, and uploading builds to TestFlight.
 - **Managed** testing responsibilities for internal and external testing teams.
 - **Standardized** Feature Progress Reporting and Feature Progress JIRA dashboards across the Quality team.
-- **Reported** testing and game feature progress to Product team and stakeholders.
 
 **Skills:** Javascript · Monkeytalk · Team Leadership · Technical Documentation · Training
 
