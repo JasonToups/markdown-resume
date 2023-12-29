@@ -65,7 +65,7 @@ NewlyWords is a React & Ruby memory book platform where hundreds of users per da
 - **Developed** a design guide with classNames and partials, from the product design system, to build stylesheets which implemented reusable classnames and styles.
 - **Mentored** a junior UI/UX designer by providing design advice, Figma help, and to think about user experience from our user’s perspective.
 
-**Skills:** Javascript · React · Ruby · Shell · Markdown · Adobe Experience Manager
+**Skills:** Javascript · React · React-Hooks · Ruby · Shell · Markdown
 
 ### Hawaii United Okinawa Association : Front End Engineer / San Francisco / Apr 2020 - Oct 2020
 
@@ -75,7 +75,7 @@ HUOA is a philanthropic organization dedicated to cultural exchange between Hawa
 - **Built** reusable containers & components that were used across the site.
 - **Engineered** custom Hooks to handle State between multiple components.
 
-**Skills:** JavaScript · React · Hooks · Sass · Technical Documentation · Training
+**Skills:** JavaScript · React · React-Hooks · Sass · Technical Documentation · Training
 
 ### LifeStreet : Sr. Product Designer / San Francisco / Sep 2017 - Oct 2019
 
