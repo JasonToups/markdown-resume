@@ -29,7 +29,7 @@ subject: 'Subject'
 
 |                  |                                                                                                                                                                           |
 | ---------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Programming**: |                Javascript · Typescript · Angular · React · React-Redux · React-Hooks · Vue · RxJS · Markdown · Shell · HTML · CSS · Sass · JQuery · Docker                |
+| **Programming**: |            Javascript · Typescript · Angular · React · React-Redux · React-Hooks · Vue · Node · RxJS · Markdown · Shell · HTML · CSS · Sass · JQuery · Docker             |
 | **Production**:  | Agile Development/Scrum Master · JIRA · Git · Software Releases · Affinity Designer · Figma · Adobe Creative Suite · Technical Documentation · UI/UX Design · A/B Testing |
 
 ## Work Experience
