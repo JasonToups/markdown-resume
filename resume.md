@@ -51,7 +51,7 @@ Worked on the Micro Front End team, transitioning Production pages from 6 brands
 
 - **Engineered** styling & architectural updates to Vue components to all 6 supported brands, including; the Product Information pages for the Purchasing Component & Product Flags Component, Shop pages, & Content pages.
 - **Solved** Local Environment Stability Issues with a self-directed NodeJS project that automated engineering tasks, including; cloning 11 repos for multiple remotes per brand. This reduced the first-time setup for local development from about 1 week to 1/2 a day.
-- **Optimized** feature branch creation for our 4 repos with my script that created multiple feature branches with the JIRA ticket number, and updated local branches to the latest release code.
+- **Automated** feature branch creation for our 4 repos with my script that created multiple feature branches with the JIRA ticket number, and updated local branches to the latest release code.
 - **Managed** & Migrated pull requests from team-specific repos, to Bedrock & Release Management repos, including batch cherry-picked commits from my team to the upstream repos. I was responsible for making sure all of the features for the release were included in the release branches.
 - **Mentored** junior engineers on my team with paired programming sessions and sharing my documentation.
 
