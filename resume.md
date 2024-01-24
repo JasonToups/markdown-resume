@@ -124,3 +124,13 @@ Prepared two mobile free-to-play games for App Store submission, from tentpole K
 ## Education
 
 _University of New Orleans / BA Philosophy_
+
+## About
+
+_This resume_ was **written in Markdown**, and **styled with CSS**, using the `Markdown Resume` project I built myself.
+
+With a simple `script`, I can generate a _PDF_, _Word Document_ and _HTML_ to embed into a website.
+
+> [Checkout my code for this project on GitHub](https://github.com/JasonToups/markdown-resume).
+
+Thank you.
