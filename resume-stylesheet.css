@@ -466,7 +466,7 @@ body {
   padding: 25px;
   margin: 15px;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.25;
 }
 
 p {
@@ -511,6 +511,7 @@ h6 {
   --h5-font-size: 16px;
   --h6-font-size: 16px;
 }
+
 h1 {
   font-size: var(--h1-font-size);
   line-height: var(--h1-font-size);
@@ -522,7 +523,7 @@ h2 {
   font-size: var(--h2-font-size);
   line-height: var(--h2-font-size);
   padding-bottom: 0;
-  margin: 1.5rem 0 0.75rem 0;
+  margin: 1rem 0 0.75rem 0;
   border-bottom: 1px solid #ccc;
   color: #476d96;
 }
@@ -559,15 +560,20 @@ h6 {
 }
 
 p,
+ul,
+li,
+code,
 blockquote,
 table,
 pre {
-  margin: 0 0 10px 0;
+  margin: 0;
+  padding: 0 0 10px 0;
+  font-size: 14px;
 }
 
 ul {
   padding-left: 25px;
-  margin: 0 0 10px 0;
+  margin: 0;
 }
 
 ol {
@@ -723,7 +729,6 @@ tt {
   background-color: #f8f8f8;
   border-radius: 3px;
   font-family: Consolas, 'Liberation Mono', Courier, monospace;
-  font-size: 17px;
   color: #333;
 }
 
