@@ -4,7 +4,7 @@ margin-right: 1cm
 margin-top: 1cm
 margin-bottom: 1cm
 title: Jason Toups
-description-meta: 'Software Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design.'
+description-meta: 'Software Engineer, with over 15 years of Software Production experience, including Engineering & UI/UX Design.'
 keywords:
   - 'frontend'
   - 'software'
@@ -23,7 +23,7 @@ subject: 'Subject'
 
 ##### [me@jasontoups.com](mailto:me@jasontoups.com) . [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . [404.625.6530](tel:4046256530)
 
-##### Software Engineer, with over 15 years of Software Production experience, including Engineering, Testing & UI/UX Design
+##### Software Engineer, with over 15 years of Software Production experience, including Engineering & UI/UX Design
 
 ## Technical Skills
 
@@ -80,7 +80,7 @@ A philanthropic organization dedicated to cultural exchange between Hawaii & Jap
 
 ### LifeStreet : Sr. Product Designer / San Francisco / Sep 2017 - Oct 2019
 
-Programmatic mobile marketing platform. Engineered & Designed mobile marketing materials.
+Mobile marketing platform. Engineered & Designed mobile marketing materials.
 
 - **Engineered** HTML playable ads in Javascript, with Adobe Animate for clients.
 - **Implemented** Responsive Design solution that consistently generated increased ad engagement by 30% across all existing playable ads, and became an engineering standard.

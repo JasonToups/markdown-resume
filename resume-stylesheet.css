@@ -547,7 +547,7 @@ h4 {
 
 h5 {
   font-size: var(--h5-font-size);
-  line-height: var(--h5-font-size);
+  line-height: 1.25;
   color: #1e3a56;
   text-align: center;
 }
@@ -692,7 +692,6 @@ blockquote > :last-child {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  font-size: 100%;
   font: inherit;
   vertical-align: top;
   --table-padding: 0px 13px 6px 0px;
@@ -706,6 +705,7 @@ table th {
 }
 
 table td {
+  font-size: 14px;
   border: none;
   vertical-align: top;
   padding: var(--table-padding);
