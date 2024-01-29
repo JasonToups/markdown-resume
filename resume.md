@@ -36,7 +36,7 @@ subject: 'Subject'
 
 ### Bill : Sr. Front End Engineer / Jul 2022 - Dec 2023 / San Jose
 
-Worked with Angular & RxJS on the revenue-generating International Payments Team.
+Payment platform for small and medium businesses. Worked with Angular & RxJS on the revenue-generating International Payments Team.
 
 - **Retrofitted** existing Domestic payment flows with International options, to enable users to make International Payments with current exchange rates, increasing revenue by 15%.
 - **Operated** across several teams to enable these features by working with the code owners to develop features and fix bugs.
@@ -47,7 +47,7 @@ Worked with Angular & RxJS on the revenue-generating International Payments Team
 
 ### Williams Sonoma Inc : Front End Engineer / April 2021 - June 2022 / San Francisco
 
-Worked on the Micro Front End team, transitioning Production pages from 6 brands, into a unified Vue project.
+E-Commerce sites for housewares and home decor. Worked on the Micro Front End team, transitioning Production pages from 6 brands, into a unified Vue project.
 
 - **Engineered** styling & architectural updates to Vue components to all 6 supported brands, including; the Product Information pages for the Purchasing Component & Product Flags Component, Shop pages, & Content pages.
 - **Solved** Local Environment Stability Issues with a self-directed NodeJS project that automated engineering tasks, including; cloning 11 repos for multiple remotes per brand. This reduced the first-time setup for local development from about 1 week to 1/2 a day.
@@ -59,9 +59,9 @@ Worked on the Micro Front End team, transitioning Production pages from 6 brands
 
 ### NewlyWords : Front End Engineer / San Francisco / Oct 2020 - April 2021
 
-NewlyWords is a React & Ruby memory book platform where hundreds of users per day can invite their friends & family to collaborate on a commemorative digital or physical book.
+A memory book platform, where friends & family collaborate on a commemorative digital or physical book.
 
-- **Engineered** the Memory Book Project Dashboard in React with custom Hooks, where project owners view and edit pages submitted from their contributors, and view information about their book.
+- **Engineered** the React Memory Book Project Dashboard with custom Hooks, where project owners view and edit pages submitted from their contributors.
 - **Built** the Questionnaire as a new memory book content type, providing project owners a place to ask their contributors questions to answer for their collaborative memory book content.
 - **Developed** a design guide with classNames and partials, from the product design system, to build stylesheets which implemented reusable classnames and styles, reducing lines of code by 25%.
 - **Mentored** a junior UI/UX designer by providing design advice, Figma help, and to think about user experience from our user’s perspective.
@@ -70,7 +70,7 @@ NewlyWords is a React & Ruby memory book platform where hundreds of users per da
 
 ### Hawaii United Okinawa Association : Front End Engineer / San Francisco / Apr 2020 - Oct 2020
 
-HUOA is a philanthropic organization dedicated to cultural exchange between Hawaii & Japan.
+A philanthropic organization dedicated to cultural exchange between Hawaii & Japan.
 
 - **Refactored** existing static HUOA site to a dynamic React site, using Wordpress on the backend.
 - **Built** reusable containers & components that were used across the site.
@@ -80,7 +80,7 @@ HUOA is a philanthropic organization dedicated to cultural exchange between Hawa
 
 ### LifeStreet : Sr. Product Designer / San Francisco / Sep 2017 - Oct 2019
 
-Engineered & Designed mobile marketing materials for the programmatic marketing platform.
+Programmatic mobile marketing platform. Engineered & Designed mobile marketing materials.
 
 - **Engineered** HTML playable ads in Javascript, with Adobe Animate for clients.
 - **Implemented** Responsive Design solution that consistently generated increased ad engagement by 30% across all existing playable ads, and became an engineering standard.
@@ -91,7 +91,7 @@ Engineered & Designed mobile marketing materials for the programmatic marketing 
 
 ### Chartboost : Product Designer / San Francisco / Feb 2017 - Aug 2017
 
-Produced playable ads, while coordinating the production in JIRA, spanning three global regions, four outsourced development studios, and a team of internal engineers.
+Mobile ad network. Produced playable ads, while coordinating the production in JIRA, spanning three global regions, four outsourced development studios, and a team of internal engineers.
 
 - **Designed** UI/UX storyboards for free-to-play playable ads in Figma, to send to advertisers for approval and engineering to build the ads.
 - **Scaled** the production of playables 170% in the first 2 months.
@@ -101,7 +101,7 @@ Produced playable ads, while coordinating the production in JIRA, spanning three
 
 ### Chartboost : Sr. Quality Engineering Lead / San Francisco / May 2015 - Jan 2016
 
-Tested Chartboost SDKs for iOS, Android & Unity for release.
+Mobile ad network. Tested Chartboost SDKs for iOS, Android & Unity for release.
 
 - **Wrote** automation test scripts in Python, using PyTest and Selenium with the Appium framework.
 - **Ran** & Maintained build scripts to create release builds, with Jenkins.
@@ -111,7 +111,7 @@ Tested Chartboost SDKs for iOS, Android & Unity for release.
 
 ### Kixeye : Mobile Quality Engineering Lead / San Francisco / Feb 2013 - Jan 2015
 
-Prepared two mobile free-to-play games for App Store submission, from tentpole Kixeye IP, and contributed several level designs for War Commander Mobile in Unity.
+Mobile video game company. Prepared two mobile free-to-play games for App Store submission, from tentpole Kixeye IP, and contributed several level designs for War Commander Mobile in Unity.
 
 - **Wrote** Javascript mobile automation testing scripts with the Monkeytalk platform.
 - **Prepared** release builds by running build scripts, and uploading builds to TestFlight.
@@ -119,8 +119,6 @@ Prepared two mobile free-to-play games for App Store submission, from tentpole K
 - **Standardized** Feature Progress Reporting and Feature Progress JIRA dashboards across the Quality team.
 
 **Skills:** Javascript · Monkeytalk · Team Leadership · Technical Documentation · Training
-
-> Additional Work Experience Provided Upon Request & Linked In Profile
 
 ## Education
 

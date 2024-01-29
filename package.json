@@ -12,7 +12,9 @@
     "html:pdf": "npm wkhtmltopdf --enable-local-file-access jason-toups-resume.html jason-toups-resume.pdf"
   },
   "dependencies": {
-    "node-pandoc": "^0.3.0",
+    "node-pandoc": "^0.3.0"
+  },
+  "devDependencies": {
     "wkhtmltopdf": "^0.4.0"
   }
 }
