@@ -27,12 +27,23 @@ subject: 'Subject'
 
 ## Technical Skills
 
-|                  |                                                                                                                                                                           |
-| ---------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Programming**: |           Javascript · Typescript · Angular · React · React-Redux · React-Hooks · Vue · NodeJS · RxJS · Markdown · Shell · HTML · CSS · Sass · JQuery · Docker            |
-| **Production**:  | Agile Development/Scrum Master · JIRA · Git · Software Releases · Affinity Designer · Figma · Adobe Creative Suite · Technical Documentation · UI/UX Design · A/B Testing |
+|                  |                                                                                                                                                  |
+| ---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Programming**: |    Javascript · Typescript · React · React-Native · React-Hooks · Tailwind · NodeJS · RxJS · Markdown · Shell · SCSS · Sass · JQuery · Docker    |
+| **Production**:  | Agile · JIRA · Git · Software Releases · Technical Documentation · Figma · UI/UX Design · A/B Testing · Affinity Designer · Adobe Creative Suite |
 
 ## Work Experience
+
+### Pointment : Full Stack Engineer / February 2024 - present / San Francisco
+
+Series A Startup Nail Bar Appointment System, built with React & React-Native, Typescript & PostgreSQL for 5 clients in the Bay Area, with Admin & Client portals.
+
+- **Improved** error logging on Admin portal, reducing lead time to diagnose errors by 12%.
+- **Created** client follow-up email feature, utilizing more dynamic fields to personalize outreach, which improved retention rates by 7%.
+- **Managed** release verification & deployment process, improving reliability by publishing checklists for the team.
+- **Created** training documentation in Markdown, located in the documentation folder of the code repository.
+
+**Skills:** TypeScript · React · React Native · Technical Documentation · Training · JavaScript
 
 ### Bill : Sr. Front End Engineer / Jul 2022 - Dec 2023 / San Jose
 
@@ -99,7 +110,7 @@ Mobile ad network. Produced playable ads, while coordinating the production in J
 
 **Skills:** Figma · UI/UX · User Interface Design · Product Development · Technical Documentation · Training
 
-### Chartboost : Sr. Quality Engineering Lead / San Francisco / May 2015 - Jan 2016
+### Chartboost : Sr. Quality Engineering Lead / San Francisco / May 2015 - Jan 2017
 
 Mobile ad network. Tested Chartboost SDKs for iOS, Android & Unity for release.
 
