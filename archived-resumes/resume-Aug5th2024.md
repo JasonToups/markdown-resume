@@ -32,15 +32,6 @@ subject: 'Subject'
 | **Programming**: |    Javascript · Typescript · React · React-Native · React-Hooks · Tailwind · NodeJS · RxJS · Markdown · Shell · SCSS · Sass · JQuery · Docker    |
 | **Production**:  | Agile · JIRA · Git · Software Releases · Technical Documentation · Figma · UI/UX Design · A/B Testing · Affinity Designer · Adobe Creative Suite |
 
-## Open Source Contributions
-
-### Payload : Full Stack Engineer / August 2024 - Present / Remote
-
-React & Next.js headless CMS with a full Typescript backend, that's an all in one solution to building websites.
-
-- **Wrote** onboarding documentation for new engineers.
-- **Created** seed data for different website types.
-
 ## Work Experience
 
 ### Pointment : Full Stack Engineer / February 2024 - present / San Francisco
@@ -98,7 +89,7 @@ A philanthropic organization dedicated to cultural exchange between Hawaii & Jap
 
 **Skills:** JavaScript · React · React-Hooks · Sass · Technical Documentation · Training
 
-### LifeStreet : Sr. Product Designer & Front End Engineer / San Francisco / Sep 2017 - Oct 2019
+### LifeStreet : Sr. Product Designer / San Francisco / Sep 2017 - Oct 2019
 
 Mobile marketing platform. Engineered & Designed mobile marketing materials.
 
@@ -118,6 +109,27 @@ Mobile ad network. Produced playable ads, while coordinating the production in J
 - **Iterated** existing ads with A/B testing, tracked and reported results from Metamarkets data to all stakeholders.
 
 **Skills:** Figma · UI/UX · User Interface Design · Product Development · Technical Documentation · Training
+
+### Chartboost : Sr. Quality Engineering Lead / San Francisco / May 2015 - Jan 2017
+
+Mobile ad network. Tested Chartboost SDKs for iOS, Android & Unity for release.
+
+- **Wrote** automation test scripts in Python, using PyTest and Selenium with the Appium framework.
+- **Ran** & Maintained build scripts to create release builds, with Jenkins.
+- **Tested** the features going into the SDK, using Charles Proxy testing to inject responses from the server to the SDK.
+
+**Skills:** Python · PyTest · Selenium · Appium · Team Leadership · Technical Documentation · Training
+
+### Kixeye : Mobile Quality Engineering Lead / San Francisco / Feb 2013 - Jan 2015
+
+Mobile video game company. Prepared two mobile free-to-play games for App Store submission, from tentpole Kixeye IP, and contributed several level designs for War Commander Mobile in Unity.
+
+- **Wrote** Javascript mobile automation testing scripts with the Monkeytalk platform.
+- **Prepared** release builds by running build scripts, and uploading builds to TestFlight.
+- **Managed** testing responsibilities for internal and external testing teams.
+- **Standardized** Feature Progress Reporting and Feature Progress JIRA dashboards across the Quality team.
+
+**Skills:** Javascript · Monkeytalk · Team Leadership · Technical Documentation · Training
 
 ## Education
 
