@@ -4,7 +4,7 @@ margin-right: 1cm
 margin-top: 1cm
 margin-bottom: 1cm
 title: Jason Toups
-description-meta: 'Software Engineer, with over 20 years of Software Production experience, including Engineering & UI/UX Design.'
+description-meta: 'AI-Enabled Full Stack Engineer specializing in production-ready applications, with 20+ years delivering scalable software solutions from blockchain platforms to enterprise systems.'
 keywords:
   - 'frontend'
   - 'software'
@@ -23,7 +23,7 @@ subject: 'Subject'
 
 ##### [me@jasontoups.com](mailto:me@jasontoups.com) . [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . [404.625.6530](tel:4046256530)
 
-##### Software Engineer, with over 20 years of Software Production experience, including Engineering, QE & UI/UX Design
+##### AI-Enabled Full Stack Engineer specializing in production-ready applications, with 20+ years delivering scalable software solutions from blockchain platforms to enterprise systems
 
 ## Technical Skills
 
