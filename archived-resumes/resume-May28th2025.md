@@ -4,7 +4,7 @@ margin-right: 1cm
 margin-top: 1cm
 margin-bottom: 1cm
 title: Jason Toups
-description-meta: 'Software Engineer, with over 20 years of Software Production experience, including Engineering & UI/UX Design.'
+description-meta: 'Software Engineer, with over 15 years of Software Production experience, including Engineering & UI/UX Design.'
 keywords:
   - 'frontend'
   - 'software'
@@ -23,33 +23,27 @@ subject: 'Subject'
 
 ##### [me@jasontoups.com](mailto:me@jasontoups.com) . [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . [404.625.6530](tel:4046256530)
 
-##### Software Engineer, with over 20 years of Software Production experience, including Engineering, QE & UI/UX Design
+##### Software Engineer, with over 15 years of Software Production experience, including Engineering & UI/UX Design
 
 ## Technical Skills
 
-|                   |                                                                                                                                |
-| ----------------- | :----------------------------------------------------------------------------------------------------------------------------: |
-| **Languages:**    |                           Javascript · Typescript · Python · Markdown · Shell · SCSS · Sass · JQuery                           |
-| **Technologies**: |                Crew AI • MCP Servers • Tailwind · Git • React • React-Native · Docker • NodeJS · RxJS · JQuery                 |
-| **Production**:   | Technical Documentation · Figma · UI/UX Design • Software Releases · Affinity Designer · Adobe Creative Suite • Agile · JIRA · |
+|                  |                                                                                                                                                  |
+| ---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Programming**: |    Javascript · Typescript · React · React-Native · React-Hooks · Tailwind · NodeJS · RxJS · Markdown · Shell · SCSS · Sass · JQuery · Docker    |
+| **Production**:  | Agile · JIRA · Git · Software Releases · Technical Documentation · Figma · UI/UX Design · A/B Testing · Affinity Designer · Adobe Creative Suite |
+
+## Open Source Contributions
+
+### Payload : Full Stack Engineer / August 2024 - Present / Remote
+
+React & Next.js headless CMS with a full Typescript backend, that's an all in one solution to building websites.
+
+- **Wrote** onboarding documentation for new engineers.
+- **Created** seed data for different website types.
 
 ## Work Experience
 
-### Dfinity : Full Stack Engineer / October 2024 - Present / San Francisco
-
-DFINITY Foundation is a not-for-profit organization developing the Internet Computer, a revolutionary blockchain network that transforms the internet into a decentralized cloud. Home to Caffeine AI, the world's first self-writing apps platform that enables users to create fully decentralized applications using natural language conversations, deployed directly on the blockchain without traditional coding.
-
-- **Shipped** production-ready applications end-to-end for Caffeine's launch, including Tiny Tasks (featured in the live launch demo) and Habitual, demonstrating full ownership from concept to deployment.
-- **Led** platform-wide UI/UX improvements across the App Marketplace, standardized theming architecture, and resolved critical user experience issues like Internet Identity sign-in flows.
-- **Enabled** cross-team collaboration during Caffeine's high-stakes product launch through comprehensive technical documentation, shared component libraries, and developer enablement tools.
-- **Architected** modern React/TypeScript solutions with mobile-first design, improving both developer experience and end-user experience while maintaining high delivery pace.
-- **Engineered** 130 website frontend templates to be used as a RAG for our Caffeine AI Website Builder.
-- **Developed** a Python website template generation system using CrewAI and MCP servers, with a mini software development team of 3 Agents and 3 Flows, to interact with the LLM and create technical documentation before building each template.
-- **Styled** several of our Motoko-Training apps, to be used to train Caffeine for Website Creation.
-- **Developed** Tailwind design system for Motoko-Training template sample-app to be used on all new apps created for Motoko-Training.
-- **Updated** the styling for the KYC-site.
-
-### Pointment : Full Stack Engineer / February 2024 - October 2024 / San Francisco
+### Pointment : Full Stack Engineer / February 2024 - present / San Francisco
 
 Series A Startup Nail Bar Appointment System, built with React & React-Native, Typescript & PostgreSQL for 5 clients in the Bay Area, with Admin & Client portals.
 
@@ -124,15 +118,6 @@ Mobile ad network. Produced playable ads, while coordinating the production in J
 - **Iterated** existing ads with A/B testing, tracked and reported results from Metamarkets data to all stakeholders.
 
 **Skills:** Figma · UI/UX · User Interface Design · Product Development · Technical Documentation · Training
-
-## Open Source Contributions
-
-### Payload CMS: Full Stack Engineer / August 2024 - December 2024 / Remote
-
-React & Next.js headless CMS with a full Typescript backend, that's an all in one solution to building websites.
-
-- **Wrote** onboarding documentation for new engineers.
-- **Created** seed data for different website types.
 
 ## Education
 
