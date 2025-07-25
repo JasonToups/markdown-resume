@@ -49,6 +49,8 @@ DFINITY Foundation is a not-for-profit organization developing the Internet Comp
 - **Developed** Tailwind design system for Motoko-Training template sample-app to be used on all new apps created for Motoko-Training.
 - **Updated** the styling for the KYC-site.
 
+**Skills:** TypeScript · React · Python · CrewAI · MCP Servers · Tailwind · Technical Documentation · Mentorship
+
 ### Pointment : Full Stack Engineer / February 2024 - October 2024 / San Francisco
 
 Series A Startup Nail Bar Appointment System, built with React & React-Native, Typescript & PostgreSQL for 5 clients in the Bay Area, with Admin & Client portals.
@@ -62,7 +64,7 @@ Series A Startup Nail Bar Appointment System, built with React & React-Native, T
 
 ### Bill : Sr. Front End Engineer / Jul 2022 - Dec 2023 / San Jose
 
-Payment platform for small and medium businesses. Worked with Angular & RxJS on the revenue-generating International Payments Team.
+Automated financial operations platform providing end-to-end bill payments, invoicing, and accounts payable/receivable management for SMBs and midsize companies. AI-enabled platform that streamlines cash flow and payment processes. Worked with Angular & RxJS on the revenue-generating International Payments Team.
 
 - **Retrofitted** existing Domestic payment flows with International options, to enable users to make International Payments with current exchange rates, increasing revenue by 15%.
 - **Operated** across several teams to enable these features by working with the code owners to develop features and fix bugs.
@@ -73,7 +75,7 @@ Payment platform for small and medium businesses. Worked with Angular & RxJS on 
 
 ### Williams Sonoma Inc : Front End Engineer / April 2021 - June 2022 / San Francisco
 
-E-Commerce sites for housewares and home decor. Worked on the Micro Front End team, transitioning Production pages from 6 brands, into a unified Vue project.
+Premier multi-channel specialty retailer of high-quality home furnishings and kitchenware, operating 625+ stores globally and distributing to 60+ countries. Portfolio includes Williams Sonoma, Pottery Barn, Pottery Barn Kids, PBteen, West Elm, Williams-Sonoma Home, Mark and Graham, and Rejuvenation brands. Worked on the Micro Front End team, transitioning Production pages from 6 brands, into a unified Vue project.
 
 - **Engineered** styling & architectural updates to Vue components to all 6 supported brands, including; the Product Information pages for the Purchasing Component & Product Flags Component, Shop pages, & Content pages.
 - **Solved** Local Environment Stability Issues with a self-directed NodeJS project that automated engineering tasks, including; cloning 11 repos for multiple remotes per brand. This reduced the first-time setup for local development from about 1 week to 1/2 a day.
@@ -81,22 +83,22 @@ E-Commerce sites for housewares and home decor. Worked on the Micro Front End te
 - **Managed** & Migrated pull requests from team-specific repos, to Bedrock & Release Management repos, including batch cherry-picked commits from my team to the upstream repos. I was responsible for making sure all of the features for the release were included in the release branches.
 - **Mentored** junior engineers on my team with paired programming sessions and sharing my documentation.
 
-**Skills:** Javascript · Vue · SASS · NodeJS · Shell · Markdown · Adobe Experience Manager
+**Skills:** Javascript · Vue · SASS · NodeJS · Shell · Markdown · Adobe Experience Manager · Mentorship
 
 ### NewlyWords : Front End Engineer / San Francisco / Oct 2020 - April 2021
 
-A memory book platform, where friends & family collaborate on a commemorative digital or physical book.
+Collaborative memory book platform that enables users to collect letters, photos, and memories from friends, family, and coworkers for special occasions like retirements, birthdays, and anniversaries. Contributors submit content through customizable templates, which are then compiled into professionally printed hardcover books with immediate PDF download options.
 
 - **Engineered** the React Memory Book Project Dashboard with custom Hooks, where project owners view and edit pages submitted from their contributors.
 - **Built** the Questionnaire as a new memory book content type, providing project owners a place to ask their contributors questions to answer for their collaborative memory book content.
 - **Developed** a design guide with classNames and partials, from the product design system, to build stylesheets which implemented reusable classnames and styles, reducing lines of code by 25%.
-- **Mentored** a junior UI/UX designer by providing design advice, Figma help, and to think about user experience from our user’s perspective.
+- **Mentored** a junior UI/UX designer by providing design advice, Figma help, and to think about user experience from our user's perspective.
 
 **Skills:** Javascript · React · React-Hooks · Ruby · Shell · Markdown
 
 ### Hawaii United Okinawa Association : Front End Engineer / San Francisco / Apr 2020 - Oct 2020
 
-A philanthropic organization dedicated to cultural exchange between Hawaii & Japan.
+Non-profit organization serving to promote, perpetuate, and preserve Okinawan culture in Hawaii. Represents 50 member clubs with combined membership exceeding 40,000, publishing the bi-monthly Uchinanchu Newsletter and commemorating 125 years of Okinawan immigration to Hawaii and emigration to the world.
 
 - **Refactored** existing static HUOA site to a dynamic React site, using Wordpress on the backend.
 - **Built** reusable containers & components that were used across the site.
@@ -106,7 +108,7 @@ A philanthropic organization dedicated to cultural exchange between Hawaii & Jap
 
 ### LifeStreet : Sr. Product Designer & Front End Engineer / San Francisco / Sep 2017 - Oct 2019
 
-Mobile marketing platform. Engineered & Designed mobile marketing materials.
+Mobile-first demand-side platform (DSP) specializing in programmatic advertising and user acquisition for mobile apps and websites. Features Nero platform with true bidding transparency, predictive analytics, and ROAS optimization for performance advertisers seeking scalable campaign management.
 
 - **Engineered** HTML playable ads in Javascript, with Adobe Animate for clients.
 - **Implemented** Responsive Design solution that consistently generated increased ad engagement by 30% across all existing playable ads, and became an engineering standard.
