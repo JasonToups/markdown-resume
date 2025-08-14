@@ -127,15 +127,6 @@ Mobile-first demand-side platform (DSP) specializing in **programmatic advertisi
 
 **Skills:** Figma · UI/UX · User Interface Design · Product Development · Technical Documentation · Training
 
-## Open Source Contributions
-
-### Payload CMS: Full Stack Engineer / August 2024 - December 2024 / Remote
-
-**React** & **Next.js** _headless CMS_ with a full Typescript backend, that's an all in one solution to building websites.
-
-- **Wrote** onboarding documentation for new engineers.
-- **Created** seed data for different website types.
-
 ## Education
 
 _University of New Orleans / BA Philosophy_
