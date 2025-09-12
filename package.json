@@ -9,7 +9,8 @@
     "word": "pandoc resume.md -f markdown -t docx --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o output/jason-toups-resume.docx",
     "all": "npm run html && npm run pdf && npm run word",
     "deploy": "npm run all",
-    "html:pdf": "npm wkhtmltopdf --enable-local-file-access output/jason-toups-resume.html output/jason-toups-resume.pdf"
+    "html:pdf": "npm wkhtmltopdf --enable-local-file-access output/jason-toups-resume.html output/jason-toups-resume.pdf",
+    "resume": "mkdir -p archived-resumes/$(date +%Y-%m-%d_%H-%M-%S) && cp resume.md archived-resumes/$(date +%Y-%m-%d_%H-%M-%S)/ && cp output/* archived-resumes/$(date +%Y-%m-%d_%H-%M-%S)/ 2>/dev/null || true && npm run all"
   },
   "dependencies": {
     "node-pandoc": "^0.3.0"
