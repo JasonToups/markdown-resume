@@ -18,7 +18,7 @@ keywords:
   - 'documentation'
 author:
   - Jason Toups
-subject: 'Frontend Engineer Resume for Jason Toups'
+subject: 'Subject'
 ---
 
 ##### [me@jasontoups.com](mailto:me@jasontoups.com) . [LinkedIn](https://www.linkedin.com/in/jasontoups/) . [Portfolio](https://jasontoups.github.io/) . [Github](https://github.com/JasonToups) . [404.625.6530](tel:4046256530)
@@ -31,7 +31,7 @@ subject: 'Frontend Engineer Resume for Jason Toups'
 | ----------------- | :----------------------------------------------------------------------------------------------------------------------------: |
 | **Languages:**    |                           Javascript • Typescript • CSS • Python • Markdown • Sass • Shell • JQuery                            |
 | **Technologies**: |            NextJS • React • Tailwind • React-Native • Docker • Crew AI • MCP Servers • Git • NodeJS • RxJS • JQuery            |
-| **Production**:   | Software Releases • Technical Documentation • Figma • UI/UX Design • Affinity Designer • Adobe Creative Suite • Agile • JIRA • |
+| **Production**:   | Technical Documentation • Figma • UI/UX Design • Software Releases • Affinity Designer • Adobe Creative Suite • Agile • JIRA • |
 
 ## Work Experience
 
