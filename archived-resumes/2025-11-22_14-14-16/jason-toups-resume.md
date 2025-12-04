@@ -39,16 +39,17 @@ subject: 'Frontend Engineer Resume for Jason Toups'
 
 DFINITY Foundation is a not-for-profit organization developing the **Internet Computer**, a revolutionary _blockchain network_ that transforms the internet into a _decentralized cloud_. Home to **Caffeine AI**, the world's first _self-writing apps_ platform that enables users to create fully decentralized applications using natural language conversations, deployed _directly on the blockchain_ without traditional coding. Worked with _NextJS_, _Typescript_ and _Tailwind_ on the Caffeine AI Team.
 
-- **Built** several Decentralized Applications for Caffeine's launch, including Tiny Tasks (featured in the live launch demo) and Habitual, demonstrating full ownership from design and development to deployment.
-- **Led** platform-wide UI/UX Design System across the App Marketplace and Core App, standardized theming architecture, and resolved critical user experience issues like Internet Identity sign-in flows.
+- **Shipped** production-ready applications end-to-end for Caffeine's launch, including Tiny Tasks (featured in the live launch demo) and Habitual, demonstrating full ownership from concept to deployment.
+- **Led** platform-wide UI/UX improvements across the App Marketplace, standardized theming architecture, and resolved critical user experience issues like Internet Identity sign-in flows.
 - **Enabled** cross-team collaboration during Caffeine's high-stakes product launch through comprehensive technical documentation, shared component libraries, and developer enablement tools.
-- **Architected** modern React/TypeScript solutions with mobile-first design, improving both developer experience and end-user experience.
+- **Architected** modern React/TypeScript solutions with mobile-first design, improving both developer experience and end-user experience while maintaining high delivery pace.
 - **Engineered** 130 website frontend templates to be used as a RAG for our Caffeine AI Website Builder.
 - **Developed** a Python website template generation system using CrewAI and MCP servers, with a mini software development team of 3 Agents and 3 Flows, to interact with the LLM and create technical documentation before building each template.
+- **Styled** several of our Motoko-Training apps, to be used to train Caffeine for Website Creation.
 - **Developed** Tailwind design system for Motoko-Training template sample-app to be used on all new apps created for Motoko-Training.
-- **Updated** the styling for the KYC-site and Dashboard.
+- **Updated** the styling for the KYC-site.
 
-**Skills:** TypeScript · NextJS · React · Tailwind · Design Systems · Python · CrewAI · MCP Servers · Technical Documentation · Mentorship
+**Skills:** TypeScript · NextJS · React · Python · CrewAI · MCP Servers · Tailwind · Technical Documentation · Mentorship
 
 ### Pointment : Full Stack Engineer / February 2024 - October 2024 / San Francisco
 
