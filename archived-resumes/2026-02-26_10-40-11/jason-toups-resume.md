@@ -132,6 +132,13 @@ Mobile ad network producing and engineering playable ads across global teams.
 - **Interviewed** industry professionals and coordinated live speaking engagements.
 - **Managed** production, editing, and distribution workflows.
 
+## Open Source Contributions
+
+### Payload CMS: Full Stack Engineer / August 2024 - December 2024 / Remote
+
+- **Wrote** onboarding documentation for new engineers.
+- **Created** structured seed data for multiple website templates.
+
 ## Education
 
 _University of New Orleans / BA Philosophy_

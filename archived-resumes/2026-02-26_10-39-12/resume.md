@@ -30,7 +30,7 @@ subject: 'Frontend Engineer Resume for Jason Toups'
 |                   |                                                                                                                                              |
 | ----------------- | :------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Languages:**    |                                  Javascript • Typescript • CSS • Python • Markdown • Sass • Shell • JQuery                                   |
-| **Technologies**: |                   NextJS • React • Tailwind • React-Native • Docker • Crew AI • MCP Servers • Git • NodeJS • Angular • Vue                   |
+| **Technologies**: |               NextJS • React • Tailwind • React-Native • Docker • Crew AI • MCP Servers • Git • NodeJS • RxJS • Angular • Vue                |
 | **Production**:   | Design Systems • Accessibility (WCAG) • Software Releases • Technical Documentation • Figma • UI/UX Design • Release Management • Mentorship |
 
 ## Work Experience
@@ -131,6 +131,13 @@ Mobile ad network producing and engineering playable ads across global teams.
 - **Produced and hosted** over 300 podcast episodes.
 - **Interviewed** industry professionals and coordinated live speaking engagements.
 - **Managed** production, editing, and distribution workflows.
+
+## Open Source Contributions
+
+### Payload CMS: Full Stack Engineer / August 2024 - December 2024 / Remote
+
+- **Wrote** onboarding documentation for new engineers.
+- **Created** structured seed data for multiple website templates.
 
 ## Education
 
